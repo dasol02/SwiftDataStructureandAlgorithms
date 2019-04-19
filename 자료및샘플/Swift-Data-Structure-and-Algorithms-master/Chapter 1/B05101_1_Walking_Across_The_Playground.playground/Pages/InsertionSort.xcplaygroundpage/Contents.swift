@@ -1,12 +1,3 @@
-/*:
- # Chapter 1
- ## Walking Across The Playground
- */
-
-/*:
- # InsertionSort
- */
-
 import Cocoa
 
 func makeList(n:Int ) -> [Int] {
@@ -39,10 +30,3 @@ for i in 1...10 {
     
     print("Array size = \(myRandomList.count), time = \(timeInterval) / sec")
 }
-
-/*:
- 
- [Next](@next)
- 
- The license for this document is available [here](License).
- */
